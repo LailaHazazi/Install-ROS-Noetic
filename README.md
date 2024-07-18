@@ -8,11 +8,10 @@ STEEP 2: install ubuntu 20.04 mate >>>> https://releases.ubuntu-mate.org/20.04/a
           
  -instructions                                                                                
      
-       1-create the virtual machine >>>> New
-                                    >>>> Type: Linux
-                                    >>>>Version: Ubuntu 20.04
-       2-Choose memory size: Carefully Select in the middle
-
+  1-create the virtual machine >>>> New
+                               >>>> Type: Linux
+                               >>>>Version: Ubuntu 20.04
+  2-Choose memory size: Carefully Select in the middle
                                                                                          >>>> This video will help:  https://www.youtube.com/watch?v=IOwlnpWPuj0
 
 
